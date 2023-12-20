@@ -8,3 +8,4 @@
   文件my_dev_user.cpp，打开自己的驱动文件然后通过自定义zeyu_io_cmd_data结构体传送数据，来实现点击
 
 编译的话，可以直接替代synaptics_dsx_core.c文件使用，然后将hello.c自己的驱动添加进去，my_dev_user.cpp在android studio直接编译就可以
+具体一点信息可以查看：https://bbs.kanxue.com/thread-279896.htm
